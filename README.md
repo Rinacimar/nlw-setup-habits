@@ -6,11 +6,12 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologia</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 </br>
 
 <p align="center">
-  <img alt="Projeto Habits" src=".github/cover.jpg">
+  <img alt="Projeto Habits" src=".github/cover.jpg" width="100%">
 </p>
 
 ## 👨🏻‍💻 Tecnologias
