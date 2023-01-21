@@ -26,3 +26,5 @@ Tecnologias utilizadas:
 ## 💻 Projeto
 
 App com o objetivo de auxiliar a manter controle de habitos saudaveis
+
+- Link do projeto online -> (https://Rinacimar.github.io/nlw-setup-habits)
