@@ -11,7 +11,7 @@
 </br>
 
 <p align="center">
-  <img alt="Projeto Habits" src=".github/cover.jpg" width="100%">
+  <img alt="Projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 👨🏻‍💻 Tecnologias
