@@ -25,6 +25,6 @@ Tecnologias utilizadas:
 
 ## 💻 Projeto
 
-App com o objetivo de auxiliar a manter controle de habitos saudaveis
+Aplicativo web desenvolvido durante o evento NLW Setup da Rocketseat, com o objetivo de aprimorar conhecimentos em HTML, CSS e JavaScript. O app permite o acompanhamento de hábitos saudáveis, como ler livros, beber água, praticar exercícios, meditar e manter uma alimentação equilibrada. Ele funciona como um checklist diário, onde o usuário pode registrar suas atividades e acompanhar seu progresso ao longo do tempo.
 
 - Link do projeto online -> (https://Rinacimar.github.io/nlw-setup-habits)
